@@ -1,13 +1,13 @@
-Jesse Gangi - My Online Resume
+Aerial Applications - Duluth, Minnesota
 ==========
 
-<h3>This is my Online Resume.</h3>
+<h3>This is our Business site.</h3>
 
 <h4>I am currently developing this live.</h4>
 
-<h5>Life: 8/11/12 to 6/18/13</h5>
+<h5>Life: 6/13/12 to 7/4/13</h5>
 
-<h5>Last Update: 6/18/13</h5>
+<h5>Last Update: 7/4/13</h5>
 
 ***
 
@@ -15,19 +15,15 @@ Jesse Gangi | jessegangi.com | 218 310 2447 | jgangi @ aerialapps.com | @Gangina
 
 ***
 
-<h5>The old repository became corrupted on 6/18/13.<br />
-Cloned this from master.<br />
-Marked other repository as "CORRUPTED" and saved it for the history.</h5>
-
 <p>Check back easily by bookmarking this in your favorite browser!</p>
 
 Use a shortcut: Ctrl+D
 
 This is an mix of HTML5 Boiler Plate, Bootstrap, Font Awesome, and my own code, including many references.
 
-I'm using it for my Online Resume, my business Aerial Applications, Templating, and Examples.
+I'm using it for our Business site, my Resume site is located at [jessegangi.com].
 
-I'm Still Modifying for personal use, and will remove uneccesary stuff as I go.
+I'm Still Modifying, and will remove uneccesary stuff as I go.
 
 I'm Still considering minifying eveything when finished.
 
