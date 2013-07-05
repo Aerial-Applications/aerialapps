@@ -1,0 +1,1482 @@
+"1";"home";"Home - Three Column - Layout";"	<!-- COLUMN 1 -->
+	<aside id=""leftsidebar"" class=""aside""><!-- HTML5 Tag -->
+	
+	
+		<!-- Left Sidebar Content -->
+		<?php
+			include(""includes/leftsidebar.php"");
+		?>
+		
+		
+	</aside><!-- / #leftsidebar .aside HTML5 Tag -->
+	
+	
+	<!-- COLUMN 2 -->
+	<article id=""content"" class=""article""><!-- HTML5 Tag -->
+	
+	
+		<!-- Page Content -->
+		<?php
+			include(""includes/page.php"");
+		?>
+		
+		
+	</article><!-- / #content .article HTML5 Tag -->
+	
+	
+	<!-- COLUMN 3 -->
+	<aside id=""rightsidebar"" class=""aside""><!-- HTML5 Tag -->
+	
+	
+		<!-- Right Sidebar Content -->
+		<?php
+			include(""includes/rightsidebar.php"");
+		?>
+		
+		
+	</aside><!-- / #rightsidebar .aside HTML5 Tag -->"
+"2";"about";"About - Three Column - Layout";"	<!-- COLUMN 1 -->
+	<aside id=""leftsidebar"" class=""aside""><!-- HTML5 Tag -->
+	
+	
+		<!-- Left Sidebar Content -->
+		<?php
+			include(""includes/leftsidebar.php"")
+		?>
+		
+		
+	</aside><!-- / #leftsidebar .aside HTML5 Tag -->
+	
+	
+	<!-- COLUMN 2 -->
+	<article id=""content"" class=""article""><!-- HTML5 Tag -->
+	
+	
+		<!-- Page Content -->
+		<?php
+			include(""includes/page.php"")
+		?>
+		
+		
+	</article><!-- / #content .article HTML5 Tag -->
+	
+	
+	<!-- COLUMN 3 -->
+	<aside id=""rightsidebar"" class=""aside""><!-- HTML5 Tag -->
+	
+	
+		<!-- Right Sidebar Content -->
+		<?php
+			include(""includes/rightsidebar.php"")
+		?>
+		
+		
+	</aside><!-- / #rightsidebar .aside HTML5 Tag -->"
+"3";"contact";"Contact - Three Column - Layout";"	<!-- COLUMN 1 -->
+	<aside id=""leftsidebar"" class=""aside""><!-- HTML5 Tag -->
+	
+	
+		<!-- Left Sidebar Content -->
+		<?php
+			include(""includes/leftsidebar.php"")
+		?>
+		
+		
+	</aside><!-- / #leftsidebar .aside HTML5 Tag -->
+	
+	
+	<!-- COLUMN 2 -->
+	<article id=""content"" class=""article""><!-- HTML5 Tag -->
+	
+	
+		<!-- Page Content -->
+		<?php
+			include(""includes/page.php"")
+		?>
+		
+		
+	</article><!-- / #content .article HTML5 Tag -->
+	
+	
+	<!-- COLUMN 3 -->
+	<aside id=""rightsidebar"" class=""aside""><!-- HTML5 Tag -->
+	
+	
+		<!-- Right Sidebar Content -->
+		<?php
+			include(""includes/rightsidebar.php"")
+		?>
+		
+		
+	</aside><!-- / #rightsidebar .aside HTML5 Tag -->"
+"4";"elements";"Elements - One Column - Layout";"	<!-- COLUMN 1 -->
+	<article id=""content"" class=""article""><!-- HTML5 Tag -->
+	
+	
+		<!-- Page Content -->
+		<?php
+			include(""includes/page.php"")
+		?>
+		
+		
+	</article><!-- / #content .article HTML5 Tag -->"
+"5";"two-column-left";"Two Column Left - Layout";"	<!-- COLUMN 1 -->
+	<aside id=""leftsidebar"" class=""aside""><!-- HTML5 Tag -->
+	
+	
+		<!-- Left Sidebar Content -->
+		<?php
+			include(""includes/leftsidebar.php"")
+		?>
+		
+		
+	</aside><!-- / #leftsidebar .aside HTML5 Tag -->
+	
+	
+	<!-- COLUMN 2 -->
+	<article id=""content"" class=""article""><!-- HTML5 Tag -->
+	
+	
+		<!-- Page Content -->
+		<?php
+			include(""includes/page.php"")
+		?>
+		
+		
+	</article><!-- / #content .article HTML5 Tag -->"
+"6";"two-column-right";"Two Column Right - Layout";"	<!-- COLUMN 1 -->
+	<article id=""content"" class=""article""><!-- HTML5 Tag -->
+	
+	
+		<!-- Page Content -->
+		<?php
+			include(""includes/page.php"")
+		?>
+		
+		
+	</article><!-- / #content .article HTML5 Tag -->
+	
+	
+	<!-- COLUMN 2 -->
+	<aside id=""rightsidebar"" class=""aside""><!-- HTML5 Tag -->
+	
+	
+		<!-- Right Sidebar Content -->
+		<?php
+			include(""includes/rightsidebar.php"")
+		?>
+		
+		
+	</aside><!-- / #rightsidebar .aside HTML5 Tag -->"
+"7";"products";"Two Column Left";"	<!-- COLUMN 1 -->
+	<aside id=""leftsidebar"" class=""aside""><!-- HTML5 Tag -->
+	
+	
+		<!-- Left Sidebar Content -->
+		<?php
+			include(""includes/leftsidebar.php"")
+		?>
+		
+		
+	</aside><!-- / #leftsidebar .aside HTML5 Tag -->
+	
+	
+	<!-- COLUMN 2 -->
+	<article id=""content"" class=""article""><!-- HTML5 Tag -->
+	
+	
+		<!-- Page Content -->
+		<?php
+			include(""includes/page.php"")
+		?>
+		
+		
+	</article><!-- / #content .article HTML5 Tag -->"
+"8";"services";"Two Column Right";"	<!-- COLUMN 1 -->
+	<article id=""content"" class=""article""><!-- HTML5 Tag -->
+	
+	
+		<!-- Page Content -->
+		<?php
+			include(""includes/page.php"")
+		?>
+		
+		
+	</article><!-- / #content .article HTML5 Tag -->
+	
+	
+	<!-- COLUMN 2 -->
+	<aside id=""rightsidebar"" class=""aside""><!-- HTML5 Tag -->
+	
+	
+		<!-- Right Sidebar Content -->
+		<?php
+			include(""includes/rightsidebar.php"")
+		?>
+		
+		
+	</aside><!-- / #rightsidebar .aside HTML5 Tag -->"
+"9";"portfolio";"Portfolio";"	<!-- COLUMN 1 -->
+	<article id=""content"" class=""article""><!-- HTML5 Tag -->
+	
+	
+		<!-- Page Content -->
+		<?php
+			include(""includes/page.php"")
+		?>
+		
+		
+	</article><!-- / #content .article HTML5 Tag -->"
+"10";"math";"Math is Fun!";"	<!-- COLUMN 1 -->
+	<article id=""content"" class=""article""><!-- HTML5 Tag -->
+	
+	
+		<!-- Page Content -->
+		<?php
+			include(""includes/math.php"")
+		?>
+		
+		
+	</article><!-- / #content .article HTML5 Tag -->"
+"1";"home";"Welcome Home!";"<div class=""container marketing"" style=""margin-top: -54px;"">
+
+
+	<div class=""row"">
+	
+	
+	<!-- <h2 style=""text-indent: 25px;""><strong>I'm currently re-organizing my server, and sites. Some things will not function properly. I should be finished by Monday night, please check back then! Thanks for checking out my Online Resume!</strong></h2> -->
+	
+	
+		<div class=""span4"">
+		
+		
+			<!-- <img class=""img-circle"" data-src=""holder.js/140x140""> -->
+			
+			<h2><a href=""pages/about.html"">About Me!</a></h2>
+			
+			<p>Where I worked, when I worked there, and what my duties were. Examples of my work over the years, and the things I am involved in outside of professional experience.</p>
+			
+			<!-- 
+			<p><a class=""btn"" href=""pages/about.html"">Would you like to know more?</a></p>
+			-->
+			
+			
+		</div><!-- / .span4 -->
+		
+		
+		<div class=""span4"""">
+		
+		
+			<!-- <img class=""img-circle"" data-src=""holder.js/140x140""> -->
+			
+			<h2><a href=""pages/contact.html"">Contact Me!</a></h2>
+			
+			<p>I'm available for hire, and I'm always looking to learn, and collaborate in any project. Contact me by clicking the above link, or the button below.</p>
+			
+			<!-- <p>Still want to know more about me, and my interests? Here you'll find links to my other sites, and social whatnots.</p> -->
+			
+			<!-- 
+			<p><a class=""btn"" href=""pages/contact.html"">Would you like to know more?</a></p>
+			-->
+			
+			
+		</div><!-- / .span4 -->
+		
+		
+		<div class=""span4"">
+		
+		
+			<!-- <img class=""img-circle"" data-src=""holder.js/140x140""> -->
+			
+			<h2><a href=""pages/tools.html"">My Tools!</a></h2>
+			
+			<p>I do my best to use Open Source tools when possible. Here you will find some of the software, code, and frameworks I use.</p>
+			
+			<!-- 
+			<p><a class=""btn"" href=""pages/tools.html"">Would you like to know more?</a></p>
+			-->
+			
+			
+		</div><!-- / .span4 -->
+		
+		
+	</div><!-- / .row -->
+	
+	
+	<hr class=""featurette-divider"">
+	
+	
+	<div class=""featurette"">
+	
+	
+		<!-- 
+		<img class=""featurette-image pull-right"" src=""files/images/icons/browser-icon-chrome.png"">
+		
+		<h2 class=""featurette-heading"">Google Chrome <span class=""muted"">It'll blow your mind.</span></h2>
+		
+		<p class=""lead"">Important information! Important information! Important information! Important information! Important information! Important information! Important information! Important information!</p>
+		 -->
+		
+		<a href=""http://www.fox21online.com"" target=""_blank""><img class=""featurette-image pull-right"" src=""files/images/logos/logo_FOX-21_512x512px.png""></a>
+		
+		<h2 class=""featurette-heading"" style=""text-align: center;""><a href=""http://www.fox21online.com"" target=""_blank"">FOX 21 News</a><br />
+		<span class=""muted""> A Red Rock Broadcasting Company.</span></h2>
+		
+		<p class=""lead"" style=""text-align: center;"">The local Twin Ports FOX Television News.</p>
+		
+		<p style=""text-align: center;""><a class=""btn"" href=""http://www.fox21online.com"" target=""_blank"">Would you like to know more?</a></p>
+		
+		
+	</div><!-- / .featurette -->
+	
+	
+	<!-- 
+	<hr class=""featurette-divider"">
+	-->
+	
+	
+	<!-- 
+	<div class=""featurette"">
+	
+	
+		<a href=""http://www.pineappleartscenter.com"" target=""_blank""><img class=""featurette-image pull-left"" src=""files/images/logos/logo_Pineapple-Arts_231x321px.png""></a>
+		
+		<h2 class=""featurette-heading""><a href=""http://www.pineappleartscenter.com"" target=""_blank"">Pineapple Art Center &amp; Supply</a><span class=""muted""> Supplies, Classes, Studio, Gallery.</span></h2>
+		
+		<p class=""lead"">I'm helping an old friend of mine with hosting for her locally owned fine arts suplly store, and studio! Check it out!</p>
+		
+		<p><a class=""btn"" href=""http://www.pineappleartscenter.com"" target=""_blank"">Would you like to know more?</a></p>
+		
+		
+	</div> --><!-- / .featurette -->
+	
+	
+	<!-- 
+	<hr class=""featurette-divider"">
+	
+	
+	<div class=""featurette"">
+	
+	
+		<a href=""http://www.bellastarstudio.com"" target=""_blank""><img class=""featurette-image pull-right"" src=""files/images/logos/logo_Bella-Star_281x212px.png""></a>
+		
+		<h2 class=""featurette-heading""><a href=""http://www.bellastarstudio.com"" target=""_blank"">Bella Star Studio &amp; Design</a><span class=""muted""> High quality art, jewelry, and photography, along with professional photography services,<br />
+		and art instruction.</span></h2>
+		
+		<p class=""lead"">I'm helping an old friend of mine with hosting for her personal design site! Check it out!</p>
+		
+		<p><a class=""btn"" href=""http://www.bellastarstudio.com"" target=""_blank"">Would you like to know more?</a></p>
+		
+		
+	</div> --><!-- / .featurette -->
+	
+	
+	<!-- 
+	<hr class=""featurette-divider"">
+	-->
+	
+	
+	<!-- 
+	<div class=""featurette"">
+	-->
+	
+	
+		<!-- 
+		<img class=""featurette-image pull-left"" src=""files/images/icons/browser-icon-firefox.png"">
+		
+		<h2 class=""featurette-heading"">Mozilla Firefox <span class=""muted"">See for yourself.</span></h2>
+		
+		<p class=""lead"">Important information! Important information! Important information! Important information! Important information! Important information! Important information! Important information!</p>
+		 -->
+		
+		<!-- 
+		<a href=""http://www.gamegalaxyus.com"" target=""_blank""><img class=""featurette-image pull-left"" src=""files/images/logos/logo_Game-Galaxy_512x512px.png""></a>
+		
+		<h2 class=""featurette-heading""><a href=""http://www.gamegalaxyus.com"" target=""_blank"">Game Galaxy</a><span class=""muted""> All your Games are belong to us.</span></h2>
+		
+		<p class=""lead"">I'm working on a new site for a good friend of mine! Check it out, or at least the ""Under Construction"" page. Check back for updates, and the official release!</p>
+		
+		<p><a class=""btn"" href=""http://www.gamegalaxyus.com"" target=""_blank"">Would you like to know more?</a></p>
+		
+		
+	</div> --><!-- / .featurette -->
+	
+	
+	<!-- 
+	<hr class=""featurette-divider"">
+	-->
+	
+	
+	<!-- 
+	<div class=""featurette"">
+	
+	
+		-->
+		<!-- 
+		<img class=""featurette-image pull-right"" src=""files/images/icons/browser-icon-safari.png"">
+		
+		<h2 class=""featurette-heading"">Apple Safari <span class=""muted"">Checkmate.</span></h2>
+		
+		<p class=""lead"">Important information! Important information! Important information! Important information! Important information! Important information! Important information! Important information!</p>
+		 -->
+		 <!-- 
+		
+		
+		<a href=""http://www.airvolve.com"" target=""_blank""><img class=""featurette-image pull-right"" src=""files/images/logos/logo_Top-Secret_512x512px.png""></a>
+		
+		<h2 class=""featurette-heading""><a href=""http://www.airvolve.com"" target=""_blank"">Airvovle</a><span class=""muted""> Gather, Learn, Share, Evolve.</span></h2>
+		
+		<p class=""lead"">That's right! My super secret project is in the works! Check back for updates, and the official release!</p>
+		
+		<p><a class=""btn"" href=""http://www.airvolve.com"" target=""_blank"">Would you like to know more?</a></p>
+		
+		
+	</div> --><!-- / .featurette -->
+	
+	
+	<hr class=""featurette-divider"" />
+	
+	
+</div><!-- / .container .marketing -->
+
+
+		<!-- Article Header -->
+		<h2>This site is perpetually<br />
+		Under Construction<br />
+		and is used as a testing ground for my code.<br />
+		My Business site is located at: <a href=""http://aerialcorporations.com"" target=""_blank"">aerialcorporations.com</a><br />
+		My Resume site is located at: <a href=""http://jessegangi.com"" target=""_blank"">jessegangi.com</a></h2>
+		
+		<!-- Copy 1 -->
+		<p>This site is currently set to a strict 1024px width. Vertical Auto Scalling is enabled. This Content Area has a width of 520px, and a left and right padding of 20px. The sidebars have a width of 212px, and a left and right padding of 10px.</p>
+		
+		<!-- Article Sub-header -->
+		<h2>Bookmark Us!</h2>
+		
+		<!-- Copy 2 -->
+		<h4>Make sure to check back soon for updates!<br />
+		Do this easily by bookmarking us in your favorite browser!<br />
+		We suggest The fastest,<br />
+		and most compliant browser <a href=""http://www.google.com/chrome"" target=""_blank"">Google Chrome</a>.<br />
+		Another great browser is <a href=""http://www.mozilla.org"" target=""_blank"">Mozilla Firefox</a>.</h4>
+		
+		<h4>I'm using
+		<xmp><br />'s</xmp>
+		for Vertical Margins.<br />
+		<br />
+		This is an XMP
+		<xmp><xmp></xmp>
+		They create natural Breaks before, and after their use.<br />
+		<br />
+		Background Colors are for Reference as well,<br />
+		and can easily be removed for transparency.</h4>
+		
+		<hr />
+		
+		<!-- Article Header -->
+		<h1>Aerial Applications<br />
+		Aerial Media Design<br />
+		Aerial Advertising<br />
+		Aerial Corporations</h1>
+		
+		<!-- Copy 1 -->
+		<p>Sometimes life can come at you fast. One minute you're graduating high school, and the next you're filing for retirement. Where does all the time go? Throughout our journey we catalog our lives through the use of Media. We drown ourselves in it. Media becomes a mile marker, a signpost that leads our way back into memories past. Furthermore, Media is a tool. A tool which when used properly can convey information, or promote interaction. Ideas can come alive. Expression can become productivity.</p>
+		
+		<p>We live in complex times with many changing landscapes. Our world turned out much smaller than we thought. Our locality may remain, yet now the world is just around the corner. In this new landscape we have access to a greater audience, and therefore retain a greater responsibility. The world has learned how to use it's voice, now we must learn how to be easily heard. This is our goal, our ambition.</p>
+		
+		<p>Sometimes we get lost in the vast media soup.  We can forget where we come from, and who we are. That is until we gather up those old videos, play our favorite song, or even flip through an ancient photo album. We all come from somewhere, someplace, sometime. That's why we think locally, and share globally.</p>"
+"2";"about";"About Us!";"<div class=""container"" style=""text-align: center;"">
+
+
+	<div class=""hero-unit"" style=""min-height: 230px;"">
+	
+	
+		<span style=""margin: 0 10px 0 0; float: left;""><img src=""http://aerialapps.com/files/images/headshots/headshot_Jesse-Gangi_200x267px.png"" width=""200px"" height=""267px"" alt=""Jesse Gangi"" title=""Jesse Gangi"" border=""0"" /></span>
+		
+		
+		<div id=""aih1tb""><!-- Adjustable Image Header H1 Title Bock -->
+		
+		
+			<img src=""http://aerialapps.com/files/images/words/black/word_Jesse.png"" width="""" height="""" alt=""Jesse"" title="""" border=""0"" />
+			<img src=""http://aerialapps.com/files/images/words/black/word_Gangi.png"" width="""" height="""" alt=""Gangi"" title="""" border=""0"" />
+			
+			<!-- <h1>Jesse Gangi</h1> -->
+			
+			
+		</div><!-- / Adjustable Image H1 Header Title Bock -->
+		
+		
+		<p>I live in The Twin Ports, in the Upper Mid-West just off of Lake Superior. I'm originally from Cottage Grove, just south-east of the Twin Cities. I play music. I enjoy playing basketball, and watching hockey. I spend most of my free time building sites like this one. I also enjoy filming the Twin Ports, and the many bands and concerts here.</p>
+		
+		
+	</div><!-- / .hero-unit -->
+	
+	
+	<div class=""row"" style=""margin-bottom: 36px;""><!--  style=""margin-top: -26px;"" -->
+	
+	
+		<div class=""span3""><!-- 1 -->
+		
+		
+			<h2><a href=""experience.html"">Experience</a></h2>
+			
+			<p>Where I worked?<br />
+			When I worked there?<br />
+			What were my duties?</p>
+			
+			<p><a class=""btn btn-mini"" href=""experience.html"">Would you like to know more?</a></p>
+			
+			
+        </div><!-- / .span3 1 -->
+		
+		
+		<div class=""span3""><!-- 2 -->
+		
+		
+			<h2><a href=""portfolio.html"">Portfolio</a></h2>
+			
+			<p>Here you'll find<br />
+			examples of my work<br />
+			over the years.</p>
+			
+			<p><a class=""btn btn-mini"" href=""portfolio.html"">Would you like to know more?</a></p>
+			
+			
+		</div><!-- / .span3 2 -->
+		
+		
+		<div class=""span3""><!-- 3 -->
+		
+		
+			<h2><a href=""activities.html"">Activities</a></h2>
+			
+			<p>Here I list the things I am<br />
+			involved in outside of<br />
+			professional experience.</p>
+			
+			<p><a class=""btn btn-mini"" href=""activities.html"">Would you like to know more?</a></p>
+			
+			
+		</div><!-- / .span3 3 -->
+		
+		
+		<div class=""span3""><!-- 4 -->
+		
+		
+			<h2><a href=""education.html"">Education</a></h2>
+			
+			<p>Here I list where<br />
+			I went to school.<br />
+			&nbsp;</p>
+			
+			<p><a class=""btn btn-mini"" href=""education.html"">Would you like to know more?</a></p>
+			
+			
+		</div><!-- / .span3 4 -->
+		
+		
+	</div><!-- / .row -->
+	
+	
+	<!-- <hr class=""featurette-divider"" /> -->
+	
+	
+</div><!-- / .container -->
+
+
+		<p>Aerial Corporations, Aerial Advertising, and Aerial Media Design were established on September 10, 2007 in Duluth Minnesota, at the tip of Lake Superior. Aerial Applications came into existance on April 6, 2011.</p>
+		
+		<p>We are a Mobile service, offering the greatest in convienience. No hastle, or scheduling problems. We will come to you; or we offer Video, Audio, and Internet Conferencing options. Our services offer a strategic view, and consultation of any project we handle. We will plan a project with evolution in mind. Your product will not lose integrity throughout time, and will always be available for conversion into any type of future media. We believe these standards are necessary in providing a quality product for our Consumers and Clients.</p>"
+"3";"contact";"Contact Us!";"<div class=""container"" style=""text-align: center;"">
+
+
+	<div class=""hero-unit"">
+	
+	
+		<div id=""aih1tb""><!-- Adjustable Image Header H1 Title Bock -->
+		
+		
+			<img src=""http://aerialapps.com/files/images/words/black/word_Get.png"" width="""" height="""" alt=""Get"" title="""" border=""0"" />
+			<img src=""http://aerialapps.com/files/images/words/black/word_a.png"" width="""" height="""" alt=""a"" title="""" border=""0"" />
+			<img src=""http://aerialapps.com/files/images/words/black/word_hold.png"" width="""" height="""" alt=""hold"" title="""" border=""0"" />
+			<img src=""http://aerialapps.com/files/images/words/black/word_of.png"" width="""" height="""" alt=""of"" title="""" border=""0"" />
+			<img src=""http://aerialapps.com/files/images/words/black/word_me.png"" width="""" height="""" alt=""me"" title="""" border=""0"" />
+			<img src=""http://aerialapps.com/files/images/words/black/word_exclamation.png"" width="""" height="""" alt=""!"" title="""" border=""0"" />
+			
+			<!-- <h1>Get a hold of me!</h1> -->
+			
+			
+		</div><!-- / Adjustable Image H1 Header Title Bock -->
+		
+		
+		<p>Contact me by email, phone, or text message.</p>
+		
+		
+	</div><!-- / .hero-unit -->
+	
+	
+	<div class=""row"" style=""margin-bottom: 10px;"">
+	
+	
+		<div class=""span4""><!-- email -->
+		
+		
+			<div id=""email"" style=""margin-bottom: 20px;"">
+			
+			
+				<a href=""#"" id=""auto-close-co-email"" rel=""clickover"" class=""""><img src=""http://aerialapps.com/files/images/logos/logo_gmail_52x52px.png"" class=""img-rounded"" width=""144px"" height=""144px"" alt=""email"" title=""email"" border=""0""></a>
+				
+				
+			</div>
+			
+			
+		</div><!-- / .span4 email -->
+		
+		
+		<!-- <div class=""span3""> --><!-- Twitter --><!-- 
+		
+		
+			<div id=""twitter"" style=""margin-bottom: 20px;"">
+			
+			
+				<a href=""#"" id=""auto-close-co-twitter"" rel=""clickover"" class=""""><img src=""http://aerialapps.com/files/images/logos/logo_Twitter_52x52px.png"" class=""img-rounded"" width=""52px"" height=""52px"" alt=""Twitter"" title=""Twitter"" border=""0""></a>
+				
+				
+			</div>
+			
+			
+		</div> --><!-- / .span3 Twitter -->
+		
+		
+		<div class=""span4""><!-- Text Message &amp; Phone -->
+		
+		
+			<div id=""smsphone"" style=""margin-bottom: 20px;"">
+				
+				
+				<a href=""#"" id=""auto-close-co-smsphone"" rel=""clickover"" class=""""><img src=""http://aerialapps.com/files/images/logos/logo_SMS_52x52px.png"" class=""img-rounded"" width=""144px"" height=""144px"" alt=""Text Message"" title=""Text Message"" border=""0""><img src=""http://aerialapps.com/files/images/logos/logo_Phone_White-on-Black_52x52px.png"" class=""img-rounded"" width=""144px"" height=""144px"" alt=""Phone"" title=""Phone"" border=""0""></a>
+				
+				
+			</div>
+			
+			
+		</div><!-- / .span4 Text Message &amp; Phone -->
+		
+		
+		<div class=""span4""><!-- Snail Mail -->
+		
+		
+			<div id=""snailmail"" style=""margin-bottom: 20px;"">
+			
+			
+				<a href=""#"" id=""auto-close-co-snailmail"" rel=""clickover"" class=""""><img src=""http://aerialapps.com/files/images/logos/logo_Snail-Mail_52x52px.png"" class=""img-rounded"" width=""144px"" height=""144px"" alt=""Snail Mail"" title=""Snail Mail"" border=""0""></a>
+				
+				
+			</div>
+			
+			
+		</div><!-- / .span4 Snail Mail -->
+		
+		
+	</div><!-- / .row -->
+	
+	
+	<!-- <hr class=""featurette-divider"" /> -->
+	
+	
+</div><!-- / .container -->
+
+
+		<h3>Please Contact us through one of the following ways:</h3>
+		
+		<h3>email us:</h3>
+		
+		<a href=""mailto:jgangi@aerialapps.com?subject=I'm contacting you via aerialapps.com&body=Let us know what we can do to serve you."">jgangi@aerialapps.com</a>
+		
+		<h3>... or Text Message, or Call us:</h3>
+		
+		<a href=""tel:2183102447"">(218) 310-2447</a>
+		
+		<h3>... or send us Snail Mail:</h3>
+		
+		P.O. Box 16681<br />
+		Duluth, MN, 55816
+		
+		<h3>I'm also on Twitter:</h3>
+		
+		<a href=""https://twitter.com/Ganginator"" target=""_blank"">@Ganginator</a><br />
+		<br />"
+"4";"elements";"Elements";"		<!-- Article Header -->
+		<h1 style=""font-size: 16pt;""></h1>
+		
+		<!-- Copy 1 -->
+		
+		<!-- Article Sub-header -->
+		<h2>Editable Lists!<br />
+		Sweet huh?</h2>
+		
+		<!-- Copy 2 -->
+		
+		<!-- Article Sub-sub-header -->
+		<h3>THESE DO NOT SAVE AT THE MOMENT</h3>
+		
+		<!-- Copy 2.0 -->
+		
+		<!-- Article Sub-sub-header -->
+		<h3>Active To-Do List:</h3>
+		
+		<!-- Copy 2.1 -->
+		
+		
+		<div id=""editlist1"" class=""centerleft""><!-- 1 -->
+		
+		
+			<ol contenteditable=""true""><!-- HTML5 Editable Attribute. Can be added to most anything! -->
+				<li>Add Colorization</li>
+				<li>Review 'Design Ideas and Examples'</li>
+				<li>Add Copy</li>
+				<li>Look into 'Local Storage' for saving inputs and edits via browser.</li>
+			</ol>
+			
+			
+		</div><!-- / #editlist1 .centerleft -->
+		
+		
+		<!-- Article Sub-sub-header -->
+		<h3>HTML5 Elements in this example:<br />
+		(Apply DISABLED elements)</h3>
+		
+		<!-- Copy 2.2 -->
+		
+		
+		<div id=""editlist2"" class=""centerleft""><!-- 2 -->
+		
+		
+			<ol contenteditable=""true""><!-- HTML5 Editable Attribute. Can be added to almost anything! -->
+				<li>header</li>
+				<li>hgroup</li>
+				<li>nav</li>
+				<li>menu<br />
+				- DISABLED</li>
+				<li>aside</li>
+				<li>figure</li>
+				<li>article</li>
+				<li>section<br />
+				- DISABLED</li>
+				<li>footer</li>
+			</ol>
+			
+			
+		</div><!-- / #editlist2 .centerleft -->
+		
+		
+		<!-- Article Sub-header -->
+		
+		<p style=""text-align: center;"">Self Validating Form Fields!<br />
+		Simple Placeholders!<br />
+		Simple Auto Focus!<br />
+		Simple Required!<br />
+		Uses Regular Expressions set!<br />
+		Sweet huh?<br />
+		<br />
+		Not adding 'Local Storage' right now.</p>
+		
+		<!-- Copy 3 -->
+		
+		
+		<div id=""form1"" class=""centerleft"">
+		
+		
+			<form action="""" method=""get""><!-- HTML5 Self Validating Form Fields, with Simple Placeholder, Auto Focus, and Required! The text field has Regular Expressions set. -->
+			
+				<label for=""email"">Email: </label>
+				<input id=""email"" name=""email"" type=""email"" placeholder=""handle@somesite.com"" required=""required"" size=""18"" /><br />
+				
+				<label for=""url"">URL: </label>
+				<input id=""url"" name=""url"" type=""url"" placeholder=""aerialapps.com"" required=""required"" size=""18"" /><br />
+				
+				<label for=""fullname"">Full Name: </label>
+				<input id=""fullname"" name=""fullname"" type=""text"" placeholder=""4 <> 10"" pattern=""[A-Za-z]{4,10}"" autofocus=""autofocus"" required=""required"" size=""18"" /><br />
+				
+				<label for=""range"">Gauge: <span style=""color: red;"">*</span> </label>
+				<input type=""range"" name=""range"" min=""0"" max=""10"" step=""1"" value="""" size=""18"" /><!-- HTML5 range Attribute -->
+				<output name=""result""></output>
+				
+				
+				<div style=""text-align: center;"">
+				
+				
+					<p><span style=""color: red;"">*</span> <span style=""color: red; text-decoration: underline; font-weight: bold;"">Gauge Works in:</span><br />
+					Chrome 22.0.1229.94 m</p>
+					
+					<button type=""submit""> Submit Form </button>
+					
+					
+				</div>
+				
+				
+			</form>
+			
+			
+		</div><!-- / #form1 .centerleft -->
+		
+		
+		<!-- Article Sub-Header -->
+		<h2 style=""font-size: 16pt;"">::: Media :::</h2>
+		
+		<!-- Copy 4 -->
+		
+		<!-- Article Sub-sub-header -->
+		
+		<!-- http://media.io -->
+		<h2>... Audio ...</h2>
+		
+		<!-- Copy 4.1 -->
+		
+		
+		<audio controls=""controls""><!-- HTML5 tag --><!-- REMOVED autoplay=""autoplay"" -->
+		
+			<source src=""http://aerialapps.com/files/audio/no.ogg"" />
+			<source src=""http://aerialapps.com/files/audio/PaulWhitemanwithJohnnyHauser-GloomySunday.mp3"" />
+			<p>Your browser is old. <a href=""http://aerialapps.com/files/audioPaulWhitemanwithJohnnyHauser-GloomySunday.mp3"">Download this audio instead.</a></p>
+			
+		</audio><!-- / HTML5 Tag -->
+		
+		
+		<p><span style=""color: red; font-weight: bold; text-decoration: underline;"">Works in:</span><br />
+		Chrome 22.0.1229.94 m<br />
+		Firefox 15.0.1</p>
+		
+		<!-- MOVED OUT OF audio FOR TESTING -->
+		<p><a href=""http://aerialapps.com/files/audio/PaulWhitemanwithJohnnyHauser-GloomySunday.mp3"">Download this audio instead.</a></p>
+		
+		<!-- Article Sub-sub-header -->
+		<h2>... Video ...</h2>
+		
+		<!-- Copy 4.2 -->
+		
+		
+		<video controls=""controls"" preload=""preload""><!-- HTML5 tag -->
+		
+			<source src=""http://aerialapps.com/files/video/no.ogg"" type=""video/ogg; codecs='vorbis, theora'"" /><!-- Also have .ogv -->
+			<source src=""http://aerialapps.com/files/video/bacteria_friend_and_foe_edit.mp4"" type=""video/mp4; 'codecs='avc1.42E01E, mp4a.40.2'"" />
+			<p>Your browser is old. <a href=""http://aerialapps.com/files/video/bacteria_friend_and_foe_edit.mp4"">Download this video instead.</a></p>
+			
+		</video><!-- / HTML5 Tag -->
+		
+		
+		<p><span style=""color: red; font-weight: bold; text-decoration: underline;"">Works in:</span><br />
+		Chrome 22.0.1229.94 m</p>
+		
+		<!-- MOVED OUT OF video FOR TESTING -->
+		<p><a href=""http://aerialapps.com/files/video/bacteria_friend_and_foe_edit.mp4"">Download this video instead.</a></p>
+		
+		<!-- Article Sub-sub-header -->
+		<h2>... Images ...</h2>
+		
+		<!-- Copy 4.3 -->
+		
+		
+		<figure><!-- HTML5 Tag -->
+		
+		
+			<img src=""files/images/logos/logo_Aerial-Apps_125x125px.jpg"" width=""125px"" height=""125px"" border=""0"" alt=""Aerial Appications"" title=""Aerial Appications"" />
+			
+			
+			<figcaption><!-- HTML5 Tag -->
+			
+			
+				Aerial Appications<!-- Without a wrapper. -->
+				
+				
+			</figcaption><!-- / HTML5 Tag -->
+			
+			
+		</figure><!-- / HTML5 Tag -->
+		
+		
+		<!-- http://goqr.me 
+		ALSO qr_aerialapps.png -->
+		
+		
+		<figure><!-- HTML5 Tag -->
+		
+		
+			<img src=""files/images/qrs/qr_Aerial-Corporations_120x120px.png"" width=""120px"" height=""120px"" border=""0"" alt=""Aerial Corporations"" title=""Aerial Corporations"" />
+			
+			
+			<figcaption><!-- HTML5 Tag -->
+			
+			
+				<p>Aerial Corporations QR Code</p><!-- With a wrapper. -->
+				
+				
+			</figcaption><!-- / HTML5 Tag -->
+			
+			
+		</figure><!-- / HTML5 Tag -->
+		
+		
+		<p>Contact Us to Exist above and beyond!</p>
+		
+		
+		<figure><!-- HTML5 Tag -->
+		
+		
+			<img src=""files/images/logos/logo_Aerial-Corporations_250x190px.png"" width=""250px"" height=""190px"" border=""0"" alt=""Aerial Corporations"" title=""Aerial Corporations"" />
+			
+			
+			<figcaption><!-- HTML5 Tag -->
+			
+			
+				<p>Aerial Corporations</p>
+				
+				
+			</figcaption><!-- / HTML5 Tag -->
+			
+			
+		</figure><!-- / HTML5 Tag -->"
+"5";"two-column-left";"Two Column Left Example!";"			<!-- EMPTY -->"
+"6";"two-column-right";"Two Column Right Example!";"			<!-- EMPTY -->"
+"7";"products";"Products!";"		<div id=""mov-cus-v01"" style=""text-align: center;"">
+		
+		
+			<img src=""files/images/album-art/album-art_MOV-CUS-V01_250x250px.jpg"" width=""250px"" height=""250px"" alt=""My Own Volition: Creative Umbrella Sampler - V01"" title=""My Own Volition: Creative Umbrella Sampler - V01"" />
+			
+			
+		</div><!-- / #mov-cus-v01 -->
+		
+		
+		<h2>My Own Volition: Creative Umbrella Sampler - V01</h2>
+		
+		<p>A collaboration of 5 bands that roamed the beginings of Ballyhaus Studios of Duluth, Minnesota. Many other bands, and people alike moved through the time of this compilation. Special thanks to Ballyhaus Studios, James Matheson and all the bands.</p>
+		
+		<!-- https://www.paypalobjects.com/WEBSCR-500-20080212-1/en_US/i/btn/btn_buynow_SM.gif -->"
+"8";"services";"Services!";"<div id=""service-blurb"" style=""text-align: center;"">
+
+
+<p style=""text-align: center; text-indent: 15px;""><!-- <img src=""/images/van.gif"" /><br /> -->
+All of our Services are Mobile!<br />
+No matter where you are, we come to you!<br />
+We also offer Video, Audio and Internet Conferencing options!<br />
+For a Quote on any Project please <a href=""index.php?pagename=contact"" target=""_blank"">Contact Us</a><!-- fill out our <a href=""index.php?pagename=qute"">Form</a> -->!<br />
+We'll call to confirm a time for Consultation!</p>
+
+
+</div><!-- / #service-blurb -->
+
+
+<table align=""center"" border=""0"">
+
+<tr>
+  <td>
+<a href=""index.php?pagename=webd"">Web Design </a>
+
+<ul>
+	<li><a href=""index.php?pagename=web1"">Personal Package </a></li>
+	<li><a href=""index.php?pagename=web2"">Buisness Package </a></li>
+	<li><a href=""index.php?pagename=web3"">Organization Package </a></li>
+</ul>
+
+<a href=""index.php?pagename=webr"">Web Redesign </a><br />
+<a href=""index.php?pagename=webh"">Web Hosting </a><br />
+<br />
+<a href=""index.php?pagename=audp"">Audio Production </a>
+
+<ul>
+	<li><a href=""index.php?pagename=adcd"">CD Package </a></li>
+	<li><a href=""index.php?pagename=audd"">Data Package </a></li>
+
+*
+	<li><a href=""index.php?pagename=audp"">Audio Commercial Package </a></li>
+*
+
+</ul>
+
+  <a href=""index.php?pagename=webd"">Audio Recording </a><br />
+  <a href=""index.php?pagename=webd"">Voice Over </a><br />
+  <br />
+
+</td>
+
+<td colspan=""20"">
+</td>
+
+<td>
+
+
+  <a href=""index.php?pagename=webd"">Print Design </a><br />
+  <a href=""index.php?pagename=webd"">Graphic Design </a><br />
+
+  <ul>
+	<li><a href=""index.php?pagename=webd"">Logo Design </a></li>
+	<li><a href=""index.php?pagename=webd"">Ad Design </a></li>
+  </ul>
+
+*
+  <a href=""index.php?pagename=webd"">Video Production</a>
+
+  <ul>
+	  <li><a href=""index.php?pagename=webd"">DVD Package </a></li>
+	  <li><a href=""index.php?pagename=webd"">HDDVD Package </a></li>
+	  <li><a href=""index.php?pagename=webd"">Web Video Package </a></li>
+	  <li><a href=""index.php?pagename=webd"">Wedding Package </a></li>
+	  <li><a href=""index.php?pagename=webd"">TV Commercial Package </a></li>
+  </ul>
+
+  <a href=""index.php?pagename=webd"">Video Recording </a>
+  <br />
+  <a href=""index.php?pagename=webd"">Aerial Video </a><br />
+  <br />
+*
+
+  <a href=""index.php?pagename=webd"">Print Photography </a><br />
+
+*
+  <a href=""index.php?pagename=webd"">Aerial Photography </a><br />
+  <br />
+  <a href=""index.php?pagename=webd"">Press Kit </a><br />
+*
+
+  <br />
+
+  <a href=""index.php?pagename=webd"">Media Conversion </a><br />
+  <a href=""index.php?pagename=webd"">Media Duplication </a><br />
+  <br />
+  <a href=""index.php?pagename=webd"">Data Transfer </a><br />
+  <a href=""index.php?pagename=webd"">Remote Data Storage </a><br />
+  <br />
+  <a href=""index.php?pagename=webd"">Consultation </a><br />
+  <br />
+
+</td>
+</tr>
+
+</table>"
+"9";"portfolio";"Portfolio";"<div class=""container"" style=""text-align: center;"">
+
+
+	<div class=""hero-unit"">
+	
+	
+		<div id=""aih1tb""><!-- Adjustable Image Header H1 Title Bock -->
+		
+		
+			<img src=""http://aerialapps.com/files/images/words/black/word_Portfolio.png"" width="""" height="""" alt=""Portfolio"" title="""" border=""0"" />
+			
+			<!-- <h1>Portfolio</h1> -->
+			
+			
+		</div><!-- / Adjustable Image H1 Header Title Bock -->
+		
+		
+		<p>Here you'll find some examples of my work over the years.</p>
+		
+		
+	</div><!-- / .hero-unit -->
+	
+	
+	<!-- Example row of columns -->
+	
+	
+	<div class=""row-fluid"" style=""text-align: center; margin: 20px 0 0 0;""><!-- 1 -->
+	
+	
+	<div class=""span12"">
+	
+	
+		<div class=""span4""><!-- 1.1 FOX -->
+			
+			
+			<!-- <span style=""float: left; margin: 0 10px 0 0;""> --><a href=""http://www.fox21online.com"" target=""_blank""><img src=""http://aerialapps.com/files/images/screenshots/screenshot_Portfolio_FOX-21-News_250x190px.png"" width=""250px"" height=""190px"" alt=""FOX 21 News, KQDS-DT"" title=""FOX 21 News, KQDS-DT"" border=""0"" /></a><!-- </span> -->
+		
+		
+			<!--<div style=""height: 275px;""><!-- WRANGLER -->
+			
+			
+				<h3><a href=""http://www.fox21online.com"" target=""_blank"">FOX 21 News, KQDS-DT</a></h3>
+				
+				<p>FOX 21 News, KQDS-DT, is the local<br />
+				FOX News Affiliate located in<br />
+				Duluth Minnesota, and serves<br />
+				Northeastern Minnesota,<br />
+				Northwestern Wisconsin, and parts<br />
+				of Western U.P. Michigan.</p>
+				
+				<p><a class=""btn"" href=""http://www.fox21online.com"" target=""_blank"">Would you like to know more?</a></p>
+				
+				
+			<!--</div><!-- / WRANGLER -->
+			
+			
+        </div><!-- / 1.1 FOX -->
+		
+		
+		<div class=""span4""><!-- 1.2.1 Homegrown Radio -->
+			
+			
+			<!-- <span style=""float: left; margin: 0 10px 0 0;""> --><a href=""http://www.radio.duluthhomegrown.org"" target=""_blank""><img src=""http://aerialapps.com/files/images/screenshots/screenshot_Portfolio_Homegrown-Radio_250x190px.jpg"" width=""250px"" height=""190px"" alt=""Homegrown Radio"" title=""Homegrown Radio"" border=""0"" /></a><!-- </span> -->
+		
+		
+			<!--<div style=""height: 275px;""><!-- WRANGLER -->
+			
+			
+				<h3><a href=""http://www.radio.duluthhomegrown.org"" target=""_blank"">Homegrown Radio</a></h3>
+				
+				<p>The Homegrown Music Festival<br />
+				in Duluth, Minnesota is the larget<br />
+				music festival in the Twin Ports,<br />
+				lasting for eight days at the end of <br />
+				April each year. For the 15th Aniversary<br />
+				we created an online radio station<br />
+				that streams local music 24/7.<br />
+				I created the online player for the this.<br />
+				&nbsp;</p>
+				
+				<p><a class=""btn"" href=""http://www.radio.duluthhomegrown.org"" target=""_blank"">Would you like to know more?</a></p>
+				
+				
+			<!--</div><!-- / WRANGLER -->
+			
+			
+		</div><!-- / 1.2.1 Homegrown Radio -->
+		
+		
+		<div class=""span4""><!-- 1.2.2 MFAFC -->
+			
+			
+			<!-- <span style=""float: left; margin: 0 10px 0 0;""> --><!-- <a href=""http://www.mfafc.aerialcorporations.com"" target=""_blank""> --><img src=""http://aerialapps.com/files/images/screenshots/screenshot_Portfolio_Moving-Forward-AFC_250x190px.png"" width=""250px"" height=""190px"" alt=""Moving Forward AFC"" title=""Moving Forward AFC"" border=""0"" /><!-- </a> --><!-- </span> -->
+		
+		
+			<!--<div style=""height: 275px;""><!-- WRANGLER -->
+			
+			
+				<h3><!-- <a href=""http://www.mfafc.aerialcorporations.com"" target=""_blank""> -->Moving Forward AFC<!-- </a> --></h3>
+				
+				<p>Moving Forward Adult Foster Care<br />
+				offers living services for disabled,<br />
+				and elderly Adults in the<br />
+				Duluth Minnesota area.<br />
+				&nbsp;<br />
+				* This is currently inactive. *</p>
+				
+				<!-- <p><a class=""btn"" href=""http://www.mfafc.aerialcorporations.com"" target=""_blank"">Would you like to know more?</a></p> -->
+				
+				
+			<!--</div><!-- / WRANGLER -->
+			
+			
+		</div><!-- / 1.2.2 MFAFC -->
+	
+	
+	</div>
+		
+		
+	</div><!-- / .row-fluid 1 -->
+	
+	
+	<div class=""row-fluid"" style=""text-align: center; margin: 20px 0 0 0;""><!-- 2 -->
+	
+	
+	<div class=""span12"">
+		
+		
+		<div class=""span4""><!-- 2.1.1 P&MP -->
+			
+			
+			<!-- <span style=""float: left; margin: 0 10px 0 0;""> --><!-- <a href=""http://www.pmp.aerialcorporations.com"" target=""_blank""> --><img src=""http://aerialapps.com/files/images/screenshots/screenshot_Portfolio_Pack-and-Mail-Plus_250x190px.png"" width=""250px"" height=""190px"" alt=""Pack &amp; Mail Plus"" title=""Pack &amp; Mail Plus"" border=""0"" /><!-- </a> --><!-- </span> -->
+		
+		
+			<!--<div style=""height: 275px;""><!-- WRANGLER -->
+			
+			
+				<h3><!-- <a href=""http://www.pmp.aerialcorporations.com"" target=""_blank""> -->Pack and Mail Plus<!-- </a> --></h3>
+				
+				<p>Pack &amp; Mail Plus is a local packing,<br />
+				mailing and shipping store, that also<br />
+				offers design, and printing. Also<br />
+				Island Ink &amp; Toner offers<br />
+				ink cartridge sales, and refills.<br />
+				* This is currently inactive. *</p>
+				
+				<!-- <p><a class=""btn"" href=""http://www.pmp.aerialcorporations.com"" target=""_blank"">Would you like to know more?</a></p> -->
+				
+				
+			<!--</div><!-- / WRANGLER -->
+			
+			
+		</div><!-- / 2.1.1 P&MP -->
+		
+		
+		<div class=""span4""><!-- 2.1.2 Carmody -->
+			
+			
+			<!-- <span style=""float: left; margin: 0 10px 0 0;""> --><!-- <a href=""http://www.carmody.aerialcorporations.com"" target=""_blank""> --><img src=""http://aerialapps.com/files/images/screenshots/screenshot_Portfolio_Carmody_250x190px.png"" width=""250px"" height=""190px"" alt=""Carmody Irish Pub"" title=""Carmody Irish Pub"" border=""0"" /><!-- </a> --><!-- </span> -->
+		
+		
+			<!--<div style=""height: 275px;""><!-- WRANGLER -->
+			
+			
+				<h3><!-- <a href=""http://www.carmody.aerialcorporations.com"" target=""_blank""> -->Carmody Irish Pub<!-- </a> --></h3>
+				
+				<p>Carmody Irish Pub is a local<br />
+				Irish Pub, and Micro Brewery<br />
+				located in the liveraly area<br />
+				of downtown Duluth Minnesota.<br />
+				&nbsp;<br />
+				* This is currently inactive. *</p>
+				
+				<!-- <p><a class=""btn"" href=""http://www.carmody.aerialcorporations.com"" target=""_blank"">Would you like to know more?</a></p> -->
+				
+				
+			<!--</div><!-- / WRANGLER -->
+			
+			
+		</div><!-- / 2.1.2 Carmody -->
+	
+	
+	</div>
+		
+		
+	</div><!-- / .row-fluid 2 -->
+	
+	
+	<h3 style=""margin: 20px 0 20px 0; text-align: center;"">I will continue to add more as I go.</h3>
+	
+	
+</div><!-- / .container -->
+
+
+		<p>Click the Images below to open the Link.</p>
+		
+		<h3>WEBSITES</h3>
+		
+		<p><strong>Carmody Irish Pub</strong></p>
+		
+		<p><a href=""http://www.carmodyirishpubduluth.com"" target=""_blank""><img src=""images/CIPs.gif"" border=""0"" alt=""Carmody Irish Pub"" width=""330"" height=""330"" longdesc=""http://www.carmodyirishpubduluth.com""></a></p>
+		
+		<p>Carmody Irish pub is located in downtown Duluth Minnesota overlooking beautiful Lake Superior across from the Sheraton Hotel on the lakeside. The building is in the historic Port-town district and once served as the livery stable for the block. They are a classic Irish Pub, and echo Duluth's past as a port with a decidedly nautical theme.</p>
+		
+		<p><strong>Pack &amp; Mail Plus</strong></p>
+		
+		<p><a href=""http://www.duluthpackandmail.com"" target=""_blank""><img src=""images/PMPs.gif"" border=""0"" alt=""Pack &amp; Mail Plus"" longdesc=""http://www.duluthpackandmail.com""></a></p>
+		
+		<p>Pack &amp; Mail Plus is located in the Denfeld Shopping Plaza, in West Duluth Minnesota. They are the only Authorized Shipping Center in Duluth providing all Five Carriers; UPS, FedEx, DHL, SpeeDee and the US Mail, at one location.</p>
+		
+		<!--
+		<p><strong>Nelson Window Tinting</strong></p>
+		
+		<p><a href=""http://www.nwt.aerialcorporations.com"" target=""_blank""><img src=""images/NWTs.gif"" border=""0"" alt=""Nelson Window Tinting"" width=""330"" height=""331"" longdesc=""http://www.nwt.aerialcorporations.com""></a></p>
+		
+		<p>Nelson Window Tinting is a family run company located in Prescot Wisconsin. Joe Nelson is a professional who is dedicated to detail. Their prices and quality are the best available.</p>
+		
+		<p><strong>Top Notch Paint Trix</strong></p>
+		
+		<p><a href=""http://www.topnotch.aerialcorporations.com""><img src=""images/TNPTs.gif"" border=""0"" alt=""Top Notch Paint Trix"" width=""330"" height=""330"" longdesc=""http://www.topnotch.aerialcorporations.com""></a></p>
+		
+		<p>Top Notch Paint Trix was a painting company ran by a friend of ours. The company no longer is established, yet Steve James still airbrushes. A wonderfull artist and a great buisness, they remain a pride to our company.</p>
+		<p>&nbsp;</p>
+		
+		<p><strong>Digital Security Systems</strong></p>
+		
+		<p><a href=""http://www.dss.aerialcorporations.com""><img src=""images/DSSs.gif"" border=""0"" alt=""Digital Security Systems"" width=""330"" height=""330"" longdesc=""http://www.dss.aerialcorporations.com""></a></p>
+		
+		<p>This was a proposal site for Twin Ports Technology Center &amp; Digital Security Systems. The simple style helps the user navigate easier and supplies a great deal of information pertaining to the buisness. With less clutter to get in your customers way you can focus on selling your product.</p>
+		<p>&nbsp;</p>
+		
+		<p><strong>Elegant Affairs DJ Services</strong></p>
+		
+		<p><a href=""http://www.eadj.aerialcorporations.com""><img src=""images/EADJs.gif"" border=""0"" alt=""Elegant Affairs DJ Services"" width=""330"" height=""330"" longdesc=""http://www.eadj.aerialcorporations.com""></a></p>
+		
+		<p>Elegant Affairs DJ Services was a site ordered and delivered. After completion the site was no longer needed. This site</p>
+		-->
+		
+		<h3>More to come...</h3>"
+"10";"math";"Math is Fun!!";"		<!-- http://www.tutorialspoint.com/html5/html5_mathml.htm -->
+		
+		<!-- 
+		05/01/2009;
+		01/17/2013;
+		Those dates are 5,375 days apart.
+		1 Year = 365.242 Days.
+		Therefore;
+		(After the <head> call id=""math"" with result, that is until the math, actually works...)
+		5375 x 365.242 = 1,963,175.75
+		5375 / 365.242 = 14.72
+		-->
+		
+		
+		<div id=""mathisfun"" style=""text-align: center;"">
+		
+		
+			<!-- THIS HAS TO HAVE CENTER ON THE DIV AS WELL, PROBABLY BECAUSE OF THE CSS --><br />
+			
+			<h1 style=""text-align: center;"">Math is Fun</h1>
+			
+			<h2>Pythagorean theorem</h2>
+			
+			
+			<span style=""font-weight: bold;"">
+			
+				<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+					<mrow>
+					<msup><mi>a</mi><mn>2</mn></msup>
+					<mo>+</mo>
+					<msup><mi>b</mi><mn>2</mn></msup>
+					<mo>=</mo>
+					<msup><mi>c</mi><mn>2</mn></msup>
+					</mrow>
+				</math>
+				<br />
+				
+			</span>
+			
+			
+			<h2 style=""text-align: center; font-weight: bold;"">The time I have been at FOX 21:</h2>
+			
+			<span style=""font-weight: bold;"">
+			
+			
+				<?php
+				
+					$date1 = ""2009-11-15"";
+					$date2 = date('Y-m-d');
+					
+					$diff = abs(strtotime($date2) - strtotime($date1));
+					
+					$years = floor($diff / (365*60*60*24));
+					$months = floor(($diff - $years * 365*60*60*24) / (30*60*60*24));
+					$days = floor(($diff - $years * 365*60*60*24 - $months*30*60*60*24)/ (60*60*24));
+					
+					printf(""%d years, %d months, %d days\n"", $years, $months, $days);
+					
+				?>
+				<br />
+				
+				
+			</span>
+			
+			<h2 style=""text-align: center; font-weight: bold;"">The time I have been developing<br />
+			as Aerial Corporations:</h2>
+			
+			<span style=""font-weight: bold;"">
+			
+			
+				<?php
+				
+					$date3 = ""2007-03-17"";
+					$date4 = date('Y-m-d');
+					
+					$diff = abs(strtotime($date4) - strtotime($date3));
+					
+					$years = floor($diff / (365*60*60*24));
+					$months = floor(($diff - $years * 365*60*60*24) / (30*60*60*24));
+					$days = floor(($diff - $years * 365*60*60*24 - $months*30*60*60*24)/ (60*60*24));
+					
+					printf(""%d years, %d months, %d days\n"", $years, $months, $days);
+					
+				?>
+				<br />
+				
+				
+			</span>
+			
+			<h2 style=""text-align: center; font-weight: bold;"">The time I have been developing entirely:</h2>
+			
+			<span style=""font-weight: bold;"">
+			
+			
+				<?php
+				
+					$date5 = ""2002-09-02"";
+					$date6 = date('Y-m-d');
+					
+					$diff = abs(strtotime($date6) - strtotime($date5));
+					
+					$years = floor($diff / (365*60*60*24));
+					$months = floor(($diff - $years * 365*60*60*24) / (30*60*60*24));
+					$days = floor(($diff - $years * 365*60*60*24 - $months*30*60*60*24)/ (60*60*24));
+					
+					printf(""%d years, %d months, %d days\n"", $years, $months, $days);
+					
+				?>
+				<br />
+				
+				
+			</span>
+			
+			<!-- http://en.wikipedia.org/wiki/GeoCities -->
+			
+			<h2 style=""text-align: center; font-weight: bold;"">The time since my first site<br />
+			(Does Geocities really count?):</h2>
+			
+			<span style=""font-weight: bold;"">
+			
+			
+				<?php
+				
+					$date7 = ""1998-09-02"";
+					$date8 = date('Y-m-d');
+					
+					$diff = abs(strtotime($date8) - strtotime($date7));
+					
+					$years = floor($diff / (365*60*60*24));
+					$months = floor(($diff - $years * 365*60*60*24) / (30*60*60*24));
+					$days = floor(($diff - $years * 365*60*60*24 - $months*30*60*60*24)/ (60*60*24));
+					
+					printf(""%d years, %d months, %d days\n"", $years, $months, $days);
+					
+				?>
+				<br />
+				<br />
+				
+				
+			</span>
+			
+			
+			<div id=""domains_list""><!-- DO NOT INDENT THIS, EASIER FOR EDITING -->
+			
+			
+52 Domains 
+@ $10 a Domain 
+= $520 a Year 
+/ 12 Months 
+= $44 a Month 
++ $50 a Month Hosting 
+= $94 a Month Total<br />
+<br />
+$50 a Month Hosting 
+/ 52 Domains 
+= $1 a Domain a Year Hosting<br />
+<br />
+18 Cook Domains 
+@ $10 a Domain 
+= $180 a Year 
+/ 12 Months 
+= $15 a Month<br />
+<br />
+18 Cook Domains 
+@ $1 a Domain a Year Hosting 
+= $18 a Year Hosting 
+/ 12 Months 
+= $1.5 a Month Hosting<br />
+<br />
+$15 a Month Cook Domains 
++ $1.5 a Month Cook Hosting 
+= $16.5 a Month for Cook<br />
+<br />
+				
+				
+			</div><!-- / #domains_list -->
+			
+			
+		</div><!-- / #mathisfun -->"
+"1";"25x50x25%";"Home - Three Column - Style";"<link rel='stylesheet' href='css/three-column.css' />";"home"
+"2";"25x50x25%";"About - Three Column - Style";"<link rel='stylesheet' href='css/three-column.css' />";"about"
+"3";"25x50x25%";"Contact - Three Column - Style";"<link rel='stylesheet' href='css/three-column.css' />";"contact"
+"4";"100%";"Elements - One Column - Style";"<link rel='stylesheet' href='css/one-column.css' />";"elements"
+"5";"25x75%";"Two Column Left - Style";"<link rel='stylesheet' href='css/two-column.css' />";"two-column-left"
+"6";"75x25%";"Two Column Right - Style";"<link rel='stylesheet' href='css/two-column.css' />";"two-column-right"
+"7";"25x75%";"Products";"<link rel='stylesheet' href='css/two-column.css' />";"products"
+"8";"75x25%";"Services";"<link rel='stylesheet' href='css/two-column.css' />";"services"
+"9";"100%";"One Column";"<link rel='stylesheet' href='css/one-column.css' />";"portfolio"
